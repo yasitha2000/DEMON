@@ -22,6 +22,8 @@
 "tryAg": "Try againg",
 "erroMsg": "Error !!",
 "bandedMsg": "Your number banded for our developer team !",
+"notFound": "I can't find anyting",
+"restartMsg": "Restarting...",
 "nonBtnmg": "\n\n🏮 _Reply the number you want_,\n"
   
 },
@@ -46,6 +48,8 @@
 "tryAg": "",
 "erroMsg": "",
 "bandedMsg": "",
+"notFound": "I can't find anyting",
+"restartMsg": "Restarting...",
 "nonBtnmg": ""
   
 },
