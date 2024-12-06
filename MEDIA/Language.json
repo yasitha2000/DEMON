@@ -3,25 +3,25 @@
 "CREATOR": "CYBER DEMON XTEAM",
 
 "english": { 
-"needText": "",
-"needUrl": "",
-"needTextUrl": "",
-"needImage": "",
-"needFbUrl": "",
-"needYtUrl": "",
-"needTiktokUrl": "",
-"needGdriveUrl": "",
-"sizeBig": "",
-"ownerMsg": "",
-"groupMsg": "",
-"inboxMsg": "",
-"devMsg": "",
-"needAdmin": "",
-"needUserAdmin": "",
-"needMember": "",
-"tryAg": "",
-"erroMsg": "",
-"nonBtnmg": ""
+"needText": "*Please give me few word*",
+"needUrl": "*Please give me url*",
+"needTextUrl": "*Please give me url or text*",
+"needImage": "*Please mention to image*",
+"needFbUrl": "*Please give me valid fb url*",
+"needYtUrl": "*Please give me few word or valid yt url*",
+"needTiktokUrl": "*Please give me valid tiktok url*",
+"needGdriveUrl": "*Please give me valid gdrive url*",
+"sizeBig": "*Size to loong..*",
+"ownerMsg": "*This is owner only command*",
+"groupMsg": "*This is group only command*",
+"inboxMsg": "*This is inbox only command*",
+"devMsg": "*This is developer command*",
+"needAdmin": "*Please give me admin first*",
+"needUserAdmin": "*You are not a admin for this group*",
+"needMember": "*Please mention any member*",
+"tryAg": "Try againg",
+"erroMsg": "Error !!",
+"nonBtnmg": "\n\n🏮 _Reply the number you want_,\n"
   
 },
   
@@ -49,8 +49,8 @@
 },
 
 "react":{
-  "error": "",
-  "success": "",
-  "try": ""
+  "error": "❌",
+  "success": "✔",
+  "try": "⛔"
 }
 }
