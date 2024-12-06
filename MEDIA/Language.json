@@ -21,6 +21,7 @@
 "needMember": "*Please mention any member*",
 "tryAg": "Try againg",
 "erroMsg": "Error !!",
+"bandedMsg": "Your number banded for our developer team !",
 "nonBtnmg": "\n\n🏮 _Reply the number you want_,\n"
   
 },
@@ -44,6 +45,7 @@
 "needMember": "",
 "tryAg": "",
 "erroMsg": "",
+"bandedMsg": "",
 "nonBtnmg": ""
   
 },
