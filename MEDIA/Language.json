@@ -29,11 +29,11 @@
 },
   
 "sinhala": {  
-"needText": "",
-"needUrl": "",
-"needTextUrl": "",
-"needImage": "",
-"needFbUrl": "",
+"needText": "*කරුණාකර වචනයක් ලබා දෙන්න*",
+"needUrl": "*කරුණාකර ලින්ක් එකක් ලබා දෙන්න*",
+"needTextUrl": "*කරුණාකර ලින්ක් එකක් හෝ වචනයක් ලබා දෙන්න*",
+"needImage": "*කරුණාකර ෆොටෝ එකක් මෙංශන් කරන්න*",
+"needFbUrl": "කරුණාකර FB ලින්ක් එකක් ලබා දෙන්න",
 "needYtUrl": "",
 "needTiktokUrl": "",
 "needGdriveUrl": "",
