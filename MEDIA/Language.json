@@ -1,0 +1,56 @@
+{
+"BOT_NAME": "DEMON-X",
+"CREATOR": "CYBER DEMON XTEAM",
+
+"english": { 
+"needText": "",
+"needUrl": "",
+"needTextUrl": "",
+"needImage": "",
+"needFbUrl": "",
+"needYtUrl": "",
+"needTiktokUrl": "",
+"needGdriveUrl": "",
+"sizeBig": "",
+"ownerMsg": "",
+"groupMsg": "",
+"inboxMsg": "",
+"devMsg": "",
+"needAdmin": "",
+"needUserAdmin": "",
+"needMember": "",
+"tryAg": "",
+"erroMsg": "",
+"nonBtnmg": ""
+  
+},
+  
+"sinhala": {  
+"needText": "",
+"needUrl": "",
+"needTextUrl": "",
+"needImage": "",
+"needFbUrl": "",
+"needYtUrl": "",
+"needTiktokUrl": "",
+"needGdriveUrl": "",
+"sizeBig": "",
+"ownerMsg": "",
+"groupMsg": "",
+"inboxMsg": "",
+"devMsg": "",
+"needAdmin": "",
+"needUserAdmin": "",
+"needMember": "",
+"tryAg": "",
+"erroMsg": "",
+"nonBtnmg": ""
+  
+},
+
+"react":{
+  "error": "",
+  "success": "",
+  "try": ""
+}
+}
