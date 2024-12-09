@@ -63,6 +63,7 @@
 "react":{
   "error": "❌",
   "success": "✔",
-  "try": "⛔"
+  "try": "⛔", 
+  "mis": "",
 }
 }
